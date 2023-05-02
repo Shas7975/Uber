@@ -1,0 +1,45 @@
+.first{
+
+    width: 30%;
+    text-align: justify;
+    padding-top: 5%;
+    padding-left: 5%;
+}
+
+.second{
+
+    width: 70%;
+    float: right;
+    margin-top: -250px;
+    padding-right: 20%;
+    
+}
+
+.help{
+    width: 60%;
+    padding-left: 5%;
+    padding-top: 13%;
+}
+
+.img{
+
+    padding-left: 5%;
+    padding-top:5% ;
+    width: 30%;
+}
+
+.img1{
+    padding-left:35%;
+    margin-top: -350px;
+    width: 50%;
+    
+}
+.main{
+    padding-top: 10%;
+    padding-left: 5%;
+}
+
+.img4{
+    margin-top: -335px;
+    padding-left: 40%;
+}
